@@ -9,6 +9,7 @@ public class test01
     {
             List<String> l = Collections.emptyList();
             l.add("1");
+            //
         String s = l.get(0);
         System.out.println(s);
 
